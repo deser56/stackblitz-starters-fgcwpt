@@ -4,10 +4,7 @@ import { styled } from '@mui/system';
 import './App.css';
 
 
-import React from 'react';
-import { Card, CardContent, Typography, Grid, Container } from '@mui/material';
-import { styled } from '@mui/system';
-import './App.css';
+
 
 const AppContainer = styled('div')({
   position: 'fixed',
